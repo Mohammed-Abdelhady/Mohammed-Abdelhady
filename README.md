@@ -1,7 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
+<h1 align="left">Hey 👋 I'm Mohammed Abdelhady</h1>
 <p align="left">
-My name is <strong>Mohammed Abdelhady</strong>, and I'm a <strong>Senior Software Engineer</strong> focused on Frontend Architecture and high-performance React applications, based in Dubai, UAE.
+Senior Software Engineer crafting scalable frontend architecture and high-performance React applications from Dubai, UAE.
 </p>
 
 <p align="left">
