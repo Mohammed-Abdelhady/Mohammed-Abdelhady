@@ -1,7 +1,5 @@
 <h1 align="center">Mohammed Abdelhady</h1>
-<p align="center">
-  Senior Software Engineer · Frontend & Architecture · Dubai, UAE
-</p>
+<p align="center">Senior Software Engineer · Frontend Architecture · Dubai, UAE</p>
 
 <p align="center">
   <a href="mailto:Mohammed_Abdelhady97@hotmail.com">Email</a> ·
@@ -9,81 +7,111 @@
   <a href="https://www.linkedin.com/in/mohammed-abdelhady/">LinkedIn</a>
 </p>
 
----
-
-## 🔍 At a glance
-
-- Senior Software Engineer focused on scalable architecture, performance, and reusable UI libraries  
-- Experience building government and enterprise platforms handling millions of records  
-- Strong with React, Next.js, TypeScript, state management, and performance optimization  
-- Comfortable across frontend, Node.js APIs, and system architecture
-
----
-
-## 📈 GitHub activity
-
-<div align="center">
-  <!-- Fixed streak URL (Heroku → demolab) -->
-  <img height="150" src="https://streak-stats.demolab.com?user=Mohammed-Abdelhady&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelhady&show_icons=true&hide_border=true&hide_title=true" />
-</div>
-
 <p align="center">
-  <a href="https://github.com/Mohammed-Abdelhady?tab=repositories">Browse all repositories →</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1000&color=3A8CF0&center=true&vCenter=true&width=420&lines=Frontend+Engineering;Scalable+Architecture;Performance+Driven" />
 </p>
 
 ---
 
-## 🌿 Latest repositories
+## 🧩 Overview
 
-<div align="center">
+A frontend engineer focused on:
 
-  <!-- Pinned REAL repos instead of non-existing one -->
-  <a href="https://github.com/Mohammed-Abdelhady/FULL-MERN-AUTH-Boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Abdelhady&repo=FULL-MERN-AUTH-Boilerplate&hide_border=true" />
-  </a>
+- Scalable UI architecture  
+- High-performance React applications  
+- Clear patterns that teams can trust  
+- Reusable components with a clean API  
+- Smooth developer experience
 
-  <a href="https://github.com/Mohammed-Abdelhady/Ecommerce-MERN-Redux-Tailwindcss">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Abdelhady&repo=Ecommerce-MERN-Redux-Tailwindcss&hide_border=true" />
-  </a>
+---
 
-</div>
+## 🧱 What I work on
+
+### **Interface Architecture**
+- Feature-first structures  
+- Shared component libraries  
+- Predictable data-fetching patterns  
+
+### **Performance**
+- Render optimization  
+- Virtualization for huge datasets  
+- API shaping to keep UIs responsive  
+
+### **Product & UX**
+- Turning complex flows into simple screens  
+- Reducing friction with clean components  
+- Documenting patterns that scale across teams  
+
+---
+
+## 🚀 Selected Projects
+
+### **UPS & Montaji Plus — Dubai Municipality**
+- Permit and product workflows at a national scale  
+- Designed UI patterns used across multiple modules  
+- Improved responsiveness for heavy datasets  
+
+### **Bahrain Shura Council**
+- Dashboards, subscriptions, and payment flows  
+- Refactored data handling and caching  
+- Delivered a stable experience for high-traffic users  
+
+### **Philip Morris × Jumia Logistics**
+- Real-time shipment sync across multiple countries  
+- Middleware architecture with clean separation  
+- Monitoring, tracking, and error-tolerant workflows  
+
+### **Food2Bits — Restaurant SaaS**
+- POS, ERP, ordering and kitchen systems  
+- Real-time updates and multi-tenant flows  
 
 ---
 
 ## 💼 Experience
 
-### **X-Digital AI — Senior Software Engineer**
-- Building large-scale government platforms (UPS · Montaji Plus)  
-- Designed scalable UI architecture and reusable RCL components  
-- Improved data-heavy screens and workflows used by millions  
+### **Senior Software Engineer — XDigital AI**
+- Leading frontend architecture for large municipal platforms  
+- Building a reusable component system  
+- Improving performance in dense workflows  
 
-### **PharaohSoft — Senior Frontend Engineer**
-- Led frontend for Bahrain Shura Council platform  
-- Created dashboards, subscriptions, payments, and integrations  
-- Improved performance and increased test coverage  
+### **Senior Frontend Engineer — PharaohSoft**
+- Main frontend engineer for Bahrain Shura Council  
+- Delivered dashboards, subscriptions, payments, integrations  
 
-### **Farah Egypt — Frontend Engineer**
-- Built the Middle East wedding platform UI and admin systems  
+### **Frontend Engineer — Farah Egypt**
+- Web platform and admin systems for major ME wedding platform  
 
-### **Upwork — Software Engineer**
-- Delivered production-grade projects using React & TypeScript  
+### **Software Engineer — Upwork**
+- Delivered full React/TypeScript solutions for various clients  
 
 ---
 
-## 🚀 Featured projects
+## 🛠 Stack
 
-### **Dubai Municipality Platforms — UPS & Montaji Plus**
-- Scalable workflows for more than two million records  
-- Improved rendering and state management in critical modules  
+**Frontend**  
+React · Next.js · TypeScript  
+Redux Toolkit · React Query  
+Tailwind · shadcn-style UI patterns  
 
-### **Bahrain Shura Council Platform**
-- Payment, dashboards, workflows, and real-time updates  
-- Re-architected API flows and caching  
+**Backend / Infra**  
+Node.js · Express  
+REST APIs · WebSockets  
 
-### **Philip Morris × Jumia Logistics Middleware**
-- Multi-country logistics integration and real-time tracking  
+**Quality / Tooling**  
+Jest · Cypress  
+GitLab CI/CD · Docker  
+Sentry · Logging & monitoring  
 
-### **Food2Bits — Restaurant SaaS**
-- POS, ERP, ordering and kitchen workflow modules  
+---
 
+## 🎯 Focus Areas
+
+- Better patterns for large React applications  
+- Component libraries that feel simple and consistent  
+- Smooth UX for heavy tables, forms, and workflows  
+
+---
+
+<p align="center">
+  <sub>Crafting interfaces that scale — one component at a time.</sub>
+</p>
