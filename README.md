@@ -1,98 +1,114 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+<p align="left">
+My name is <strong>Mohammed Abdelhady</strong>, and I'm a <strong>Senior Software Engineer</strong> focused on Frontend Architecture and high-performance React applications, based in Dubai, UAE.
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=3A8CF0&width=480&lines=Frontend+Architecture;High-performance+React+Apps;Reusable+Component+Systems;Performance+and+Developer+Experience" alt="Typing animation showing my focus areas" />
+</p>
+
+---
+
+<h2 align="left">About me</h2>
+
+<p align="left">
+✨ Creating clean, scalable UIs (and the occasional bug) since 2016.<br>
+📚 Currently learning: advanced frontend architecture, performance tuning, and better DX tooling.<br>
+🎯 Goals: build systems that stay fast, organized, and developer-friendly at enterprise scale.<br>
+🎲 Fun fact: I refactor things before anyone asks, including things I built yesterday.
+</p>
+
+---
+
+<h2 align="left">Highlights</h2>
+
+<ul>
+  <li>Built UI architecture for Dubai Municipality platforms (UPS and Montaji Plus)</li>
+  <li>Designed reusable component systems used across multiple teams</li>
+  <li>Improved performance on workflows handling millions of records</li>
+  <li>Led frontend development for Bahrain Shura Council dashboards and payment modules</li>
+  <li>Worked on logistics middleware for Philip Morris × Jumia</li>
+</ul>
+
+---
+
 <h2 align="left">I code with</h2>
 
 <div align="left">
 
-  <!-- Core Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
+  <img width="10" alt="" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" />
+  <img width="10" alt="" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" />
+  <img width="10" alt="" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
+  <img width="10" alt="" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux Logo" />
+  <img width="10" alt="" />
 
-  <!-- State / Query -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS Logo" />
+  <img width="10" alt="" />
 
-  <!-- 100% working React Query icon -->
-  <img src="https://tanstack.com/_next/static/media/logo.4bb159a6.svg" height="40" alt="React Query" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook Logo" />
+  <img width="10" alt="" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo" />
+  <img width="10" alt="" />
 
-  <!-- Styling -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS Logo" />
+  <img width="10" alt="" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB Logo" />
+  <img width="10" alt="" />
 
-  <!-- UI Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite Logo" />
+  <img width="10" alt="" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack Logo" />
+  <img width="10" alt="" />
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint Logo" />
+  <img width="10" alt="" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM Logo" />
+  <img width="10" alt="" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="Yarn Logo" />
+  <img width="10" alt="" />
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" height="40" alt="PNPM Logo" />
+  <img width="10" alt="" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest Logo" />
+  <img width="10" alt="" />
 
-  <!-- Build Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="Cypress Logo" />
+  <img width="10" alt="" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker Logo" />
+  <img width="10" alt="" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
+  <img width="10" alt="" />
 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman Logo" />
+  <img width="10" alt="" />
 
-  <!-- Package Managers -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
+  <img width="10" alt="" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" height="40" />
-  <img width="10" />
-
-
-  <!-- Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" />
-  <img width="10" />
-
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="10" />
-
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" />
-  <img width="10" />
-
-
-  <!-- Web Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
 
 </div>
+
+---
+
+<p align="left">
+If you are working on something interesting or need help scaling a frontend, feel free to reach out.
+</p>
