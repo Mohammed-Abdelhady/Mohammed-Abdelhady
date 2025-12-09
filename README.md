@@ -13,101 +13,128 @@
 
 ---
 
+<p align="center">
+  <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Architecture</code> <code>Performance</code>
+</p>
+
+---
+
 <table>
 <tr>
-<td width="33%" valign="top">
+
+<td width="32%" valign="top">
 
 <h3 align="center">Profile</h3>
 
 <p align="center">
-  <img src="https://github.com/Mohammed-Abdelhady.png" width="90" />
+  <img src="https://github.com/Mohammed-Abdelhady.png" width="90" alt="Avatar" />
 </p>
 
 <p align="center"><strong>Mohammed Abdelhady</strong></p>
 <p align="center">Senior Software Engineer</p>
 
-<h4>Currently</h4>
+<h4>Snapshot</h4>
 <ul>
-  <li>XDigital AI – Dubai</li>
-  <li>Municipal platforms (UPS, Montaji Plus)</li>
-  <li>Frontend architecture & shared UI</li>
+  <li>Based in Dubai, UAE</li>
+  <li>Senior Software Engineer at XDigital AI</li>
+  <li>Focused on municipal and enterprise platforms</li>
 </ul>
 
-<h4>Core Skills</h4>
+<h4>Focus</h4>
 <ul>
-  <li>React · Next.js · TypeScript</li>
-  <li>Redux Toolkit · React Query</li>
-  <li>Tailwind · shadcn-style components</li>
+  <li>Frontend architecture</li>
+  <li>Reusable component systems</li>
+  <li>Performance on large datasets</li>
 </ul>
 
-<h4>Focus Areas</h4>
+<h4>Current work</h4>
 <ul>
-  <li>Scalable frontend systems</li>
-  <li>Performance optimization</li>
-  <li>Reusable UI libraries</li>
+  <li>UPS & Montaji Plus (Dubai Municipality)</li>
+  <li>Shared UI library for multi-product teams</li>
+</ul>
+
+<h4>Contact</h4>
+<ul>
+  <li><a href="mailto:Mohammed_Abdelhady97@hotmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/mohammed-abdelhady/">LinkedIn</a></li>
 </ul>
 
 </td>
 
-<td width="67%" valign="top">
+<td width="68%" valign="top">
 
-<h3>Overview</h3>
+<h3>About</h3>
 <p>
-  I build frontends that stay clean, scalable, and fast—especially in environments with large teams, complex workflows, and heavy datasets.
+  I design and build frontends that remain clear, scalable, and fast as products, teams, and data grow.
 </p>
 
-<h4>What I Do</h4>
+<table>
+<tr>
+<td valign="top">
+
+<h4>What I do</h4>
 <ul>
-  <li>Architect large React applications</li>
-  <li>Design shared UI systems used across products</li>
-  <li>Optimize heavy tables, workflows, and dashboards</li>
-  <li>Shape API design with backend teams</li>
+  <li>Structure large React/Next.js applications</li>
+  <li>Define shared UI patterns for multiple products</li>
+  <li>Tune performance for heavy tables, forms, and dashboards</li>
+  <li>Collaborate with backend on API shape and caching</li>
 </ul>
 
-<h4>How I Work</h4>
+</td>
+<td valign="top">
+
+<h4>How I work</h4>
 <ul>
-  <li>Feature-based architecture</li>
-  <li>Light diagrams before implementation</li>
-  <li>Clean PRs and code reviews</li>
-  <li>Documented patterns for teams</li>
+  <li>Feature-oriented architecture</li>
+  <li>Small diagrams before big builds</li>
+  <li>Clean PRs and clear commit history</li>
+  <li>Examples and docs for other engineers</li>
 </ul>
 
-<h3>Selected Projects</h3>
+</td>
+</tr>
+</table>
+
+---
+
+<h3>Selected projects</h3>
 
 <p><strong>UPS & Montaji Plus – Dubai Municipality</strong></p>
 <ul>
-  <li>Permit and product safety workflows</li>
-  <li>Shared workflow components</li>
-  <li>Performance improvements for 2M+ records</li>
+  <li>Permit and product safety platforms at city scale</li>
+  <li>Shared workflow components reused across modules</li>
+  <li>Performance work on views touching millions of records</li>
 </ul>
 
 <p><strong>Bahrain Shura Council</strong></p>
 <ul>
-  <li>Dashboards, subscriptions, payments</li>
-  <li>Refactored caching and data flows</li>
+  <li>Dashboards, subscriptions, and payment flows</li>
+  <li>Refactored data fetching, caching, and error handling</li>
 </ul>
 
 <p><strong>Philip Morris × Jumia Logistics</strong></p>
 <ul>
-  <li>Cross-country shipment sync platform</li>
-  <li>Separation of external and internal models</li>
+  <li>Middleware for multi-country shipment sync</li>
+  <li>Clear separation between external systems and internal models</li>
 </ul>
 
 <p><strong>Food2Bits Restaurant Suite</strong></p>
 <ul>
-  <li>POS, ERP, ordering, kitchen workflow</li>
+  <li>POS, ERP, ordering, and kitchen workflow modules</li>
   <li>Real-time and multi-tenant flows</li>
 </ul>
 
+---
+
 <h3>Experience</h3>
 <ul>
-  <li>Senior Software Engineer – XDigital AI</li>
-  <li>Senior Frontend Engineer – PharaohSoft</li>
-  <li>Frontend Engineer – Farah Egypt</li>
-  <li>Software Engineer – Upwork</li>
+  <li><strong>XDigital AI</strong> – Senior Software Engineer</li>
+  <li><strong>PharaohSoft</strong> – Senior Frontend Engineer</li>
+  <li><strong>Farah Egypt</strong> – Frontend Engineer</li>
+  <li><strong>Upwork</strong> – Software Engineer</li>
 </ul>
 
-<h3>Tech Stack</h3>
+<h3>Tech stack</h3>
 <ul>
   <li>React, Next.js, TypeScript</li>
   <li>Redux Toolkit, React Query</li>
@@ -123,5 +150,5 @@
 ---
 
 <p align="center">
-  <sub>Crafting interfaces that scale.</sub>
+  <sub>Building interfaces that scale with the product, not against it.</sub>
 </p>
