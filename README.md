@@ -23,7 +23,8 @@
 ## 📈 GitHub activity
 
 <div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Abdelhady&hide_border=true" />
+  <!-- Fixed streak URL (Heroku → demolab) -->
+  <img height="150" src="https://streak-stats.demolab.com?user=Mohammed-Abdelhady&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelhady&show_icons=true&hide_border=true&hide_title=true" />
 </div>
 
@@ -35,17 +36,16 @@
 
 ## 🌿 Latest repositories
 
-These update automatically based on your GitHub activity.
-
 <div align="center">
 
-<a href="https://github.com/Mohammed-Abdelhady?tab=repositories&sort=updated">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Abdelhady&repo=Render-Performance-Labs&hide_border=true" />
-</a>
+  <!-- Pinned REAL repos instead of non-existing one -->
+  <a href="https://github.com/Mohammed-Abdelhady/FULL-MERN-AUTH-Boilerplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Abdelhady&repo=FULL-MERN-AUTH-Boilerplate&hide_border=true" />
+  </a>
 
-<a href="https://github.com/Mohammed-Abdelhady">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdelhady&layout=compact&hide_border=true" />
-</a>
+  <a href="https://github.com/Mohammed-Abdelhady/Ecommerce-MERN-Redux-Tailwindcss">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Abdelhady&repo=Ecommerce-MERN-Redux-Tailwindcss&hide_border=true" />
+  </a>
 
 </div>
 
@@ -86,5 +86,4 @@ These update automatically based on your GitHub activity.
 
 ### **Food2Bits — Restaurant SaaS**
 - POS, ERP, ordering and kitchen workflow modules  
-
 
