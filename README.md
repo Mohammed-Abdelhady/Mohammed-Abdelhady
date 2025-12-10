@@ -3,10 +3,6 @@
 Senior Software Engineer crafting scalable frontend architecture and high-performance React applications from Dubai, UAE.
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=3A8CF0&width=480&lines=Frontend+Architecture;High-performance+React+Apps;Reusable+Component+Systems;Performance+and+Developer+Experience" alt="Typing animation showing my focus areas" />
-</p>
-
 ---
 
 <h2 align="left">About me</h2>
