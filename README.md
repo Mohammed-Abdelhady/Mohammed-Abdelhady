@@ -18,9 +18,9 @@
 **`Senior Software Engineer`** • **`Frontend Architect`** • **`Dubai, UAE`**
 
 <p>
-<img src="https://img.shields.io/badge/Status-Building_the_Future-00ff41?style=for-the-badge&logo=statuspal&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Scalable_Architecture-6c5ce7?style=for-the-badge&logo=blueprint&logoColor=white" alt="Focus" />
-<img src="https://img.shields.io/badge/Experience-8+_Years-ff6b6b?style=for-the-badge&logo=timeline&logoColor=white" alt="Experience" />
+<img src="https://img.shields.io/badge/Status-Building_the_Future-00d9ff?style=for-the-badge&logo=statuspal&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Scalable_Architecture-a855f7?style=for-the-badge&logo=blueprint&logoColor=white" alt="Focus" />
+<img src="https://img.shields.io/badge/Experience-8+_Years-ef4444?style=for-the-badge&logo=timeline&logoColor=white" alt="Experience" />
 </p>
 
 </div>
@@ -33,28 +33,38 @@
 
 </div>
 
-```typescript
-const engineer = {
-  name: "Mohammed Abdelhady",
-  role: "Senior Software Engineer",
-  location: "Dubai, UAE 🇦🇪",
-  
-  core: {
-    philosophy: "Code should be fast, clean, and future-proof",
-    specialization: ["Frontend Architecture", "Performance Engineering", "DX Optimization"],
-    since: 2016,
-    approach: "Refactor first, ask questions later"
-  },
-  
-  currentMission: {
-    objective: "Engineering scalable systems for enterprise",
-    focus: ["Sub-100ms interactions", "Zero-friction DX", "Component autonomy"],
-    impact: "Handling millions of records without breaking a sweat"
-  },
-  
-  status: "⚡ ACTIVE | 🎯 OPTIMIZING | 🔥 SHIPPING"
-};
-```
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 💼 ROLE
+**Senior Software Engineer**  
+Frontend Architecture  
+Dubai, UAE 🇦🇪
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 PHILOSOPHY
+**"Fast, Clean, Future-Proof"**  
+Refactor first, ask questions later  
+Since 2016
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 FOCUS
+**Enterprise Scale Systems**  
+Sub-100ms interactions  
+Zero-friction DX
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<strong>⚡ ACTIVE</strong> • <strong>🎯 OPTIMIZING</strong> • <strong>🔥 SHIPPING</strong>
+</p>
 
 ---
 
@@ -161,21 +171,44 @@ const engineer = {
 
 </div>
 
-```javascript
-const metrics = {
-  yearsOfExperience: 8,
-  projectsShipped: "50+",
-  componentLibraries: 3,
-  recordsProcessed: "Millions",
-  refactorsPerWeek: "∞",
-  coffeeConsumed: "Immeasurable"
-};
+<table align="center">
+<tr>
+<td align="center">
 
-// Real-time system status
-console.log(`⚡ Uptime: ${calculateUptime(2016)} years`);
-console.log(`🎯 Current Focus: Next-gen architecture patterns`);
-console.log(`🔥 Deployment Status: Continuous`);
-```
+**8+**  
+Years of Experience
+
+</td>
+<td align="center">
+
+**50+**  
+Projects Shipped
+
+</td>
+<td align="center">
+
+**3**  
+Component Libraries
+
+</td>
+<td align="center">
+
+**Millions**  
+Records Processed
+
+</td>
+<td align="center">
+
+**∞**  
+Refactors Per Week
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+⚡ Uptime: 8+ years • 🎯 Current Focus: Next-gen architecture patterns • 🔥 Deployment Status: Continuous
+</p>
 
 ---
 
@@ -186,7 +219,7 @@ console.log(`🔥 Deployment Status: Continuous`);
 **Building something ambitious? Need enterprise-scale frontend architecture?**
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammedabdelhady/)
-[![Portfolio](https://img.shields.io/badge/🌐_Website-Visit-6c5ce7?style=for-the-badge)](https://www.congar.dev/)
+[![Portfolio](https://img.shields.io/badge/🌐_Website-Visit-a855f7?style=for-the-badge)](https://www.congar.dev/)
 
 </div>
 
