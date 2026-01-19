@@ -3,12 +3,12 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║     ██████╗ ██████╗ ███╗   ██╗ ██████╗  █████╗ ██████╗       ║
-║    ██╔════╝██╔═══██╗████╗  ██║██╔════╝ ██╔══██╗██╔══██╗      ║
-║    ██║     ██║   ██║██╔██╗ ██║██║  ███╗███████║██████╔╝      ║
-║    ██║     ██║   ██║██║╚██╗██║██║   ██║██╔══██║██╔══██╗      ║
-║    ╚██████╗╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║██║  ██║      ║
-║     ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝      ║
+║   ██████╗ ██████╗ ███╗   ██╗ ██████╗  █████╗ ██████╗         ║
+║  ██╔════╝██╔═══██╗████╗  ██║██╔════╝ ██╔══██╗██╔══██╗        ║
+║  ██║     ██║   ██║██╔██╗ ██║██║  ███╗███████║██████╔╝        ║
+║  ██║     ██║   ██║██║╚██╗██║██║   ██║██╔══██║██╔══██╗        ║
+║  ╚██████╗╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║██║  ██║        ║
+║   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝        ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -24,64 +24,6 @@
 </p>
 
 </div>
-
----
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 💼 ROLE
-**Senior Software Engineer**  
-Frontend Architecture  
-Dubai, UAE 🇦🇪
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 PHILOSOPHY
-**"Fast, Clean, Future-Proof"**  
-Refactor first, ask questions later  
-Since 2016
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 FOCUS
-**Enterprise Scale Systems**  
-Sub-100ms interactions  
-Zero-friction DX
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<strong>⚡ ACTIVE</strong> • <strong>🎯 OPTIMIZING</strong> • <strong>🔥 SHIPPING</strong>
-</p>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ Architecture
-- **Dubai Municipality** – Engineered UI systems for UPS & Montaji Plus
-- **Component Libraries** – Built reusable design systems deployed across teams
-- **Performance** – Optimized workflows processing millions of records
-
-</td>
-<td width="50%">
-
-### 🚀 Deployment
-- **Bahrain Shura Council** – Frontend lead for dashboards & payment systems
-- **Philip Morris × Jumia** – Logistics middleware integration
-- **Enterprise Scale** – Systems serving government & private sectors
-
-</td>
-</tr>
-</table>
 
 ---
 
