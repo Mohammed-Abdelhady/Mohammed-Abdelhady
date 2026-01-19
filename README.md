@@ -3,12 +3,12 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║   ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ ║
-║   ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║ ║
-║   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║ ║
-║   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║ ║
-║   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║ ║
-║   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝ ║
+║     ██████╗ ██████╗ ███╗   ██╗ ██████╗  █████╗ ██████╗       ║
+║    ██╔════╝██╔═══██╗████╗  ██║██╔════╝ ██╔══██╗██╔══██╗      ║
+║    ██║     ██║   ██║██╔██╗ ██║██║  ███╗███████║██████╔╝      ║
+║    ██║     ██║   ██║██║╚██╗██║██║   ██║██╔══██║██╔══██╗      ║
+║    ╚██████╗╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║██║  ██║      ║
+║     ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝      ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -185,9 +185,8 @@ console.log(`🔥 Deployment Status: Continuous`);
 
 **Building something ambitious? Need enterprise-scale frontend architecture?**
 
-[![Email](https://img.shields.io/badge/📧_Email-Available-00ff41?style=for-the-badge)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6c5ce7?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammedabdelhady/)
+[![Portfolio](https://img.shields.io/badge/🌐_Website-Visit-6c5ce7?style=for-the-badge)](https://www.congar.dev/)
 
 </div>
 
