@@ -54,6 +54,9 @@
 <div align="center">
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -124,53 +127,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-## 📊 PERFORMANCE METRICS
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">
-
-**2016**  
-Started Coding
-
-</td>
-<td align="center">
-
-**50+**  
-Projects Shipped
-
-</td>
-<td align="center">
-
-**3**  
-Component Libraries
-
-</td>
-<td align="center">
-
-**Millions**  
-Records Processed
-
-</td>
-<td align="center">
-
-**∞**  
-Refactors Per Week
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-⚡ Uptime: Since 2016 • 🎯 Current Focus: Next-gen architecture patterns • 🔥 Deployment Status: Continuous
-</p>
 
 ---
 
