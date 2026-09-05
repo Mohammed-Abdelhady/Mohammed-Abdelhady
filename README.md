@@ -1,5 +1,5 @@
 <a href="https://www.congar.dev/">
-  <img src="./assets/congar-profile-banner.png" alt="Mohammed Abdelhady. Frontend engineering, writing, and tools. congar.dev" width="100%" />
+  <img src="./assets/congar-profile-banner.png" alt="Mohammed Abdelhady. Senior Software Engineer. Enterprise platforms and SaaS products. congar.dev" width="100%" />
 </a>
 
 I'm Mohammed, a frontend-focused software engineer based in Abu Dhabi. I've spent more than a decade building enterprise platforms and SaaS products. I care about how an interface feels to use, and the fundamentals that make it reliable.
